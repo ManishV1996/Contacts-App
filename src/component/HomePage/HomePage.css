@@ -1,0 +1,15 @@
+.table-striped{
+    margin-left: 20%;
+}
+
+main {
+    min-height: 73vh;
+    display: flex;
+    flex-direction: column;
+  }
+  .me-auto{
+    margin-left: 72%;
+  }
+    footer {
+        margin-top: auto;
+      }
